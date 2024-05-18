@@ -1,0 +1,27 @@
+body{
+  font-family: 'Ubuntu';
+  font-size: 400;
+}
+
+.container{
+  padding: auto;
+}
+
+.container .card{
+  border-radius: 15px;
+  top: 15px;
+}
+
+.card-body table{
+  background: rgb(143, 141, 141);
+  font-size: larger;
+  border-radius: 15px;
+}
+
+.card-body thead{
+  background-color: rgb(235, 229, 229);
+}
+
+.card-body tbody{
+  color: white;
+}
